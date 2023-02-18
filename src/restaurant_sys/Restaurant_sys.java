@@ -9,7 +9,7 @@ package restaurant_sys;
  *
  * @author ricky
  */
-public class Restaurant_sys {
+public class Restaurant_sys extends NewJFrame {
 
     /**
      * @param args the command line arguments
@@ -19,3 +19,5 @@ public class Restaurant_sys {
     }
     
 }
+
+

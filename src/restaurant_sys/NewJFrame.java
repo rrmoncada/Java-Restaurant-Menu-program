@@ -527,7 +527,8 @@ public class NewJFrame extends javax.swing.JFrame {
               
               b.setText (b.getText()+" ----------------------------------------------------------------------\n");
               b.setText (b.getText()+" Item \t\tQty \tPrice" + "\n");
-              b.setText (b.getText()+" ----------------------------------------------------------------------\n");
+              b.setText (b.getText()+" ----------------------------------------------------------------------"
+                      + "\n");
               
               DefaultTableModel df = (DefaultTableModel) jTable1.getModel();
 // get table Product details
